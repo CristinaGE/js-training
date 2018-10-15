@@ -8,6 +8,15 @@
  */
 
 // Your code :
+var obj = new Object ();
+
+obj.str = '1337'
+
+obj.num = 42
+
+obj.bool = false
+
+obj.undef;
 
 //* Begin of tests
 const assert = require('assert')
