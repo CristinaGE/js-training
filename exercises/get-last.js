@@ -8,6 +8,11 @@
  */
 
 // Your code :
+let arrey = [2, 42];
+function getLast(arrey){
+	return arrey [arrey.length - 1] ;
+}
+
 
 //* Begin of tests
 const assert = require('assert')
