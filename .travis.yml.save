@@ -1,0 +1,5 @@
+script: ./tester basics math get advancedc
+
+language: node_js
+node_js:
+  - "node"
